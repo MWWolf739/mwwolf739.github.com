@@ -7,22 +7,26 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+I am a Researcher skilled at defining project objectives, collecting, interpreting, and visualizing data, and communicating with team members. Experienced in collecting data from a variety of sources and fitting data with appropriate models to draw conclusions. I'm well-versed in writing technical reports and presenting data to co-workers and at larger conferences. Some of my interests lie in using data analysis and data visualization to tell broader stories and deliver important results.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Interests
 
-```{r cars}
-summary(cars)
-```
+* Data Analysis
+* Data Visualization
+* Problem Solving
 
-## Including Plots
+## Projects
 
-You can also embed plots, for example:
+* Chemistry research projects
+* Learning RStudio
+* Learning Python
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Profiles
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+*[LinkedIn](https://www.linkedin.com/in/matthew-wolf-b470765a/)
+*[GitHub](https://github.com/MWWolf739/)
+
+## Contact
+[mwwolf739@gmail.com](mailto:mwwolf739@gmail.com)
